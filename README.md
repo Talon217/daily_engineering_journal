@@ -4,7 +4,7 @@
 ---
 
 ## 🧭 Navigation
-- **[Project Log](./docs/log.md)** | The central hub for all daily updates and milestones.
+- **[Project Log](./documentation/log.md)** | The central hub for all daily updates and milestones.
 
 ---
 

@@ -11,6 +11,8 @@ Note: `READ.md`, and `log.md` entries represent functional or structural updates
 
 ---
 ---
+## 2026-07-17 | fix: updated broken link from README | status: `complete`
+> [**README.md**](./../README.md) - Fixed broken link.<br>
 
 ## 2026-07-17 | docs: updated readme | status: `complete_for_now`
 > [**README.md**](./../README.md) - (1) Updated project description. (2) Added navigation links.<br>
