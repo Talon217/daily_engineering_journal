@@ -1,5 +1,5 @@
 # Project Log - Updated Daily
-Note: `log.md` entries represent functional or structural updates only.
+Note: `READ.md`, and `log.md` entries represent functional or structural updates only.
 
 ## Log Note Template [+]
 
@@ -12,6 +12,8 @@ Note: `log.md` entries represent functional or structural updates only.
 ---
 ---
 
+## 2026-07-17 | docs: updated readme | status: `complete_for_now`
+> [**README.md**](./../README.md) - (1) Updated project description. (2) Added navigation links.<br>
 
 ## 2026-07-17 | docs: setup commit_prefix rules | status: `complete`
 > [**commit_prefix_rules.md**](./commit_prefix_rules.md) - (1) Defined commit prefix rules. (2) Created documentation for each rule.<br>
