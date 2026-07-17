@@ -1,0 +1,13 @@
+# Python Environments
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+
+# OS System Files
+.DS_Store
+Thumbs.db
+
+# VS Code Metadata
+.vscode/
