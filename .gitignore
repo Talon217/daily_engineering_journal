@@ -11,3 +11,5 @@ Thumbs.db
 
 # VS Code Metadata
 .vscode/
+
+.pytest_cache/

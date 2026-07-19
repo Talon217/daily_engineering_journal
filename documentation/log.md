@@ -11,6 +11,9 @@ Note: `READ.md`, and `log.md` entries represent functional or structural updates
 
 ---
 ---
+## 2026-07-19 | feat(python): solved exercism hello-world.py | status: `complete`
+> [**hello_world.py**](./../challenges/exercism/python/hello-world/hello_world.py) - Imported and completed the hello world challenge.<br>
+
 ## 2026-07-19 | feat: imported exercism challenges | status: `complete`
 > [**exercism**](./../challenges/exercism) - Imported exercism to challenges; a learning tool.<br>
 
