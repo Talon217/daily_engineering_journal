@@ -11,9 +11,12 @@ Note: `READ.md`, and `log.md` entries represent functional or structural updates
 
 ---
 ---
+## 2026-07-19 | feat: imported exercism challenges | status: `complete`
+> [**exercism**](./../challenges/exercism) - Imported exercism to challenges; a learning tool.<br>
+
 ## 2026-07-18 | feat: added challenge and completed one | status: `complete`
-> [**temperature_converter.py**](./../challenges/temperature_converter.py) - long day, took a light challenge.<br>
-> [**challenges**](./../challenges) - created a challenges folder; so I still learn even on non-creative days.<br>
+> [**temperature_converter.py**](./../challenges/temperature_converter.py) - Long day, took a light challenge.<br>
+> [**challenges**](./../challenges) - Created a challenges folder; so I still learn even on non-creative days.<br>
 
 ## 2026-07-17 | fix: updated broken link from README | status: `complete`
 > [**README.md**](./../README.md) - Fixed broken link.<br>
