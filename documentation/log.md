@@ -11,6 +11,9 @@ Note: `READ.md`, and `log.md` entries represent functional or structural updates
 
 ---
 ---
+## 2026-07-19 | chore: moved file to misc folder | status: `complete`
+> [**temperature_converter.py**](./../challenges/misc/temperature_converter.py) - created a 'misc' folder for my miscellaneous challenges.<br>
+
 ## 2026-07-19 | feat(python): solved exercism hello-world.py | status: `complete`
 > [**hello_world.py**](./../challenges/exercism/python/hello-world/hello_world.py) - Imported and completed the hello world challenge.<br>
 
@@ -18,7 +21,7 @@ Note: `READ.md`, and `log.md` entries represent functional or structural updates
 > [**exercism**](./../challenges/exercism) - Imported exercism to challenges; a learning tool.<br>
 
 ## 2026-07-18 | feat: added challenge and completed one | status: `complete`
-> [**temperature_converter.py**](./../challenges/temperature_converter.py) - Long day, took a light challenge.<br>
+> [**temperature_converter.py**](./../challenges/misc/temperature_converter.py) - Long day, took a light challenge.<br>
 > [**challenges**](./../challenges) - Created a challenges folder; so I still learn even on non-creative days.<br>
 
 ## 2026-07-17 | fix: updated broken link from README | status: `complete`

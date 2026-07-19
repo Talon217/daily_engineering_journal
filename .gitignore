@@ -13,3 +13,4 @@ Thumbs.db
 .vscode/
 
 .pytest_cache/
+.exercism
