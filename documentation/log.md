@@ -1,5 +1,5 @@
 # Project Log - Updated Daily
-Note: `READ.md`, and `log.md` entries represent functional or structural updates only.
+Note: `READ.md`, and `log.md` entries represent functional or structural updates only. 
 
 ## Log Note Template [+]
 
@@ -11,6 +11,9 @@ Note: `READ.md`, and `log.md` entries represent functional or structural updates
 
 ---
 ---
+## 2026-07-20 | feat:(python): solved exercism lasagna.py | status: `complete`
+> [**lasagna.py**](./../challenges/exercism/python/guidos-gorgeous-lasagna/lasagna.py) - Imported and completed the lasagna challenge.<br>
+
 ## 2026-07-19 | chore: moved file to misc folder | status: `complete`
 > [**temperature_converter.py**](./../challenges/misc/temperature_converter.py) - created a 'misc' folder for my miscellaneous challenges.<br>
 
