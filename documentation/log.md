@@ -11,6 +11,9 @@ Note: `READ.md`, and `log.md` entries represent functional or structural updates
 
 ---
 ---
+## 2026-07-21 | feat:(python): solved exercism arcade-game.py | status: `complete`
+> [**arcade_game.py**](./../challenges/exercism/python/ghost-gobble-arcade-game/arcade_game.py) - Created a simple arcade game.<br>
+
 ## 2026-07-20 | feat:(python): solved exercism lasagna.py | status: `complete`
 > [**lasagna.py**](./../challenges/exercism/python/guidos-gorgeous-lasagna/lasagna.py) - Imported and completed the lasagna challenge.<br>
 
