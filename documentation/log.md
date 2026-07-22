@@ -11,11 +11,14 @@ Note: `READ.md`, and `log.md` entries represent functional or structural updates
 
 ---
 ---
+## 2026-07-21 | refractor:(python): exercism arcade-game.py | status: `complete`
+> [**arcade_game.py**](./../challenges/exercism/python/ghost-gobble-arcade-game/arcade_game.py) -removed the if statements, for return concepts.<br>
+
 ## 2026-07-21 | feat:(python): solved exercism arcade-game.py | status: `complete`
-> [**arcade_game.py**](./../challenges/exercism/python/ghost-gobble-arcade-game/arcade_game.py) - Created a simple arcade game.<br>
+> [**arcade_game.py**](./../challenges/exercism/python/ghost-gobble-arcade-game/arcade_game.py) -learned some python return concepts.<br>
 
 ## 2026-07-20 | feat:(python): solved exercism lasagna.py | status: `complete`
-> [**lasagna.py**](./../challenges/exercism/python/guidos-gorgeous-lasagna/lasagna.py) - Imported and completed the lasagna challenge.<br>
+> [**lasagna.py**](./../challenges/exercism/python/guidos-gorgeous-lasagna/lasagna.py) - Imported and completed the lasagna challenge, leaned docstring concepts.<br>
 
 ## 2026-07-19 | chore: moved file to misc folder | status: `complete`
 > [**temperature_converter.py**](./../challenges/misc/temperature_converter.py) - created a 'misc' folder for my miscellaneous challenges.<br>
