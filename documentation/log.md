@@ -11,6 +11,12 @@ Note: `READ.md`, and `log.md` entries represent functional or structural updates
 
 ---
 ---
+## 2026-07-21 | docs: Added multiple README's for navigation | status: `complete`
+> [**root/README.md**](./../README.md) - Update root README.<br>
+> [**documentation/README.md**](./README.md) - Added documentation README.<br>
+> [**exercises/README.md**](./../exercises/README.md) - Added exercises README.<br>
+> todo: add exercises/exercism README, and exercises/misc README.
+
 ## 2026-07-21 | refractor:(python): exercism arcade-game.py | status: `complete`
 > [**arcade_game.py**](./../challenges/exercism/python/ghost-gobble-arcade-game/arcade_game.py) -removed the if statements, for return concepts.<br>
 
