@@ -10,7 +10,6 @@
 ## 📂 Folder Structure
 *   [`Project Log.md`](./log.md) : The central hub for all daily updates and milestones.
 *   [`commit_prefix_rules.md`](./commit_prefix_rules.md)     : Guidelines for consistent commit message formatting.
-*   [`misc`](./misc)     : Miscellaneous files and resources.
 
 ---
 *Last updated: 2026-07-21*

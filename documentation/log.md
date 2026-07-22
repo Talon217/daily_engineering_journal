@@ -11,6 +11,10 @@ Note: `READ.md`, and `log.md` entries represent functional or structural updates
 
 ---
 ---
+## 2026-07-21 | docs: typo fixes | status: `complete`
+> [**documentation/README.md**](./README.md) - removed typo.<br>
+> [**exercises/README.md**](./../exercises/README.md) - fixed link.<br>
+
 ## 2026-07-21 | docs: Added multiple README's for navigation | status: `complete`
 > [**root/README.md**](./../README.md) - Update root README.<br>
 > [**documentation/README.md**](./README.md) - Added documentation README.<br>
